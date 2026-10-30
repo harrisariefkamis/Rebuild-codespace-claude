@@ -1,4 +1,6 @@
-Berikut struktur repo untuk proyek Claude Code di Codespace. Nama folder root saya sesuaikan dengan repo Anda, `Rebuild-codespace-claude`.
+## Rebuild-codespace-claude
+
+Project ini memberi anda sedikit membangun dan setup claude ai di lingkungan codespace github,dengan nama proyek yang sudah di arsipkan `Rebuild-codespace-claude`.
 
 ## Struktur folder
 
@@ -106,4 +108,3 @@ node_modules/
 - **Jangan menaruh API key** di file mana pun dalam repo. Cukup lewat Codespaces secret.
 - Folder `src/`, `tests/`, dan perintah di `CLAUDE.md` perlu Anda sesuaikan dengan bahasa proyek Anda.
 
-Kalau Anda ceritakan jenis proyeknya (misalnya web Node.js, Python, atau lainnya), saya bisa isikan `CLAUDE.md` dan struktur `src/` yang lebih spesifik. Saya juga bisa membuatkan semuanya sebagai file siap unduh kalau Anda mau.
