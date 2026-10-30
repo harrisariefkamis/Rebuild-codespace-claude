@@ -1,6 +1,6 @@
 ## Rebuild-codespace-claude
 
-Project ini memberi anda sedikit membangun dan setup claude ai di lingkungan codespace github,dengan nama proyek yang sudah di arsipkan `Rebuild-codespace-claude`.
+Project ini memberi anda sedikit workflow membangun dan setup claude ai di lingkungan codespace github,dengan nama proyek yang sudah di arsipkan `Rebuild-codespace-claude`.
 
 ## Struktur folder
 
