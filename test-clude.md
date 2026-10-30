@@ -25,10 +25,10 @@ echo ${ANTHROPIC_API_KEY:+terdeteksi}
 
 kalo ada.tambahakan kunci API-KEY
 ```bash
-export ANTHROPIC_API_KEY="sk-ant-xxxxx"
+export ANTHROPIC_API_KEY="sk-isi api-key"
 claude
 ```
-Kalau mau Manual, simpan ini di ~/.claude/settings.json:
+Kalau mau Manual jalankan ini
 ``json
 {
   "permissions": {
